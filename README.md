@@ -5,8 +5,15 @@
 - 📫 How to reach me ...
 
 *bbang*
+_bbang_
+
 **bbang**
+__bbang__
+
 ***bbang***
+___bbang___
+
+
 ```c++
 #include<stdio.h>
 
