@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-*bbang*
-_bbang_
+*bbang*  
+_bbang_     ** or __
 
 **bbang**
 __bbang__
