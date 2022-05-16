@@ -14,6 +14,13 @@ __bbang__   ** or __
 ___bbang___    *** or ___
 
 
+<www.chosun.ac.kr>
+
+[Chosun](https://www.chosun.ac.kr)
+
+[CCosun](https://www.chosun.ac.kr "Chousn University")
+
+
 ```c++
 #include<stdio.h>
 
