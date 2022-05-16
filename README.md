@@ -5,13 +5,13 @@
 - 📫 How to reach me ...
 
 *bbang*  
-_bbang_     ** or __
+_bbang_     * or _ 사이에
 
 **bbang**
-__bbang__
+__bbang__   ** or __
 
 ***bbang***
-___bbang___
+___bbang___    *** or ___
 
 
 ```c++
