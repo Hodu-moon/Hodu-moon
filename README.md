@@ -32,7 +32,25 @@
 > > > 3개
 > > > > 4개
 
+` printf("백쿼트");
+` 
 
+```c++
+#include<stdio.h>
+  
+  int main(){
+    printf("백쿼트 3개 사이에 ````````````");
+  }
+```
+
+```python
+improt numpy as np
+import pandas as pd
+def print_hello();
+  print("hello World!``` 3개를 ``` 사이에 넣기 앞에 언어를 넣으면 강조");
+  
+ print_hello()
+```
 
 
 *bbang*  
