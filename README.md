@@ -1,3 +1,5 @@
+<img src="https://ghchart.rshah.org/Hodu-moon" />
+
 - 👋 Hi, I’m @Hodu-moon
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
