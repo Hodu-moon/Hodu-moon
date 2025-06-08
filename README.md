@@ -8,14 +8,6 @@
 
 
 
-<www.chosun.ac.kr>
-
-[Chosun](https://www.chosun.ac.kr)
-
-[CCosun](https://www.chosun.ac.kr "Chousn University")
-
-
-
 
 
 <!---
