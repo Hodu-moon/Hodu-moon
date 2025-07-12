@@ -2,9 +2,17 @@
 
 
 
-```
+```java
 System.our.println("Backend 개발자 ")
 ```
+
+
+* 성장하는 개발자
+
+
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=bbangho00&theme=dark)](https://github.com/loosie/github-readme-tistory-card)
+
 
 
 <div align=center> 
