@@ -11,7 +11,7 @@ System.our.println("Backend 개발자 ")
 
 
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=bbangho00&theme=dark)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)]([https://github.com/loosie/github-readme-tistory-card](https://bbangho00.tistory.com/))
 
 
 
