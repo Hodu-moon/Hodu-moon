@@ -7,6 +7,9 @@
 - 📫 How to reach me ...
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hodu-moon&show_icons=true&theme=gruvbox)
+
+
 <div align=center> 
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
