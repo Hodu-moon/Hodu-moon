@@ -15,7 +15,6 @@ System.our.println("Backend 개발자 ")
 • 저의 설계·구현 역량을 바탕으로 회사와 함께 성장하는 백엔드 개발자가 되겠습니다.
 
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://bbangho00.tistory.com/)
 
 
 
