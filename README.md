@@ -34,6 +34,11 @@ System.our.println("Backend 개발자 ")
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
+---
+
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/200x200/images/2ab4640c-dc7f-4e6e-9a5d-3e8e1b6b7a7a/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/62000109-e923-4707-91dd-f5d74fecd877/public_url)
+
+
 
 
 
